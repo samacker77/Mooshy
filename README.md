@@ -2,9 +2,7 @@
 
 Small yet beautiful CSS buttons library.
 
-<p align="center">
-    ![Demo]( https://user-images.githubusercontent.com/26454105/34456872-699e01b2-edc7-11e7-96db-bc539b91b17b.gif )
-</p>
+
 ### Usage
 
 Download this repository on your local machine.
