@@ -2,6 +2,7 @@
 
 Small yet beautiful CSS buttons library.
 
+![Demo](https://user-images.githubusercontent.com/26454105/34456872-699e01b2-edc7-11e7-96db-bc539b91b17b.gif)
 
 ### Usage
 
