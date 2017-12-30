@@ -2,14 +2,6 @@
 
 Small yet beautiful CSS buttons library.
 
-<p align = "center">
-    <video width="320" height="240">
-        <source src="doc/demo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</p>
-
-
 ### Usage
 
 Download this repository on your local machine.
